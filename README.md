@@ -8,7 +8,7 @@
   <img height="160em" src="https://github-readme-stats-bk7cvenwo-lmartinhao.vercel.app/api?username=lmartinhao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-bk7cvenwo-lmartinhao.vercel.app/api/top-langs/?username=lmartinhao&layout=compact&langs_count=7&theme=dracula"/>
     
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/lmartinhao/lmartinhao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/lmartinhao/lmartinhao/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/lmartinhao/lmartinhao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 <div style="display: inline_block"><br>

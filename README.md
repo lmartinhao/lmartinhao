@@ -9,8 +9,6 @@
   <img height="160em" src="https://github-readme-stats-bk7cvenwo-lmartinhao.vercel.app/api/top-langs/?username=lmartinhao&layout=compact&langs_count=7&theme=dracula"/>
     
   ![github contribution grid snake animation](https://raw.githubusercontent.com/lmartinhao/lmartinhao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/lmartinhao/lmartinhao/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-    
-  ![Snake animation](https://github.com/lmartinhao/lmartinhao/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 <div style="display: inline_block"><br>

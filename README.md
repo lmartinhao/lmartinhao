@@ -3,10 +3,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bem+vindos+ao+meu+Github+&hearts;++;Front-end+dev+</>;React+enthusiast;Always+learning+!"></a>
 </p>
-<div align="center">
-  <a href="https://github.com/lmartinhao">
-  <img height="160em" src="https://github-readme-stats-lola.vercel.app/api?username=lmartinhao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-lola.vercel.app/api/top-langs/?username=lmartinhao&layout=compact&langs_count=7&theme=dracula"/>
+<div align="middle">
+
+  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lmartinhao&count_private=true&show_icons=true&theme=dracula)](https://github.com/lmartinhao)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmartinhao&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/lmartinhao)
     
   ![github contribution grid snake animation](https://raw.githubusercontent.com/lmartinhao/lmartinhao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
